@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://angry-mccarthy-78a6ff.netlify.com/"
 languageCode = "en-us"
 title = "I am "
 theme = "ananke"
